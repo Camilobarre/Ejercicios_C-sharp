@@ -1,0 +1,15 @@
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/TallerLINQ/bin/Debug/net8.0/TallerLINQ
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/TallerLINQ/bin/Debug/net8.0/TallerLINQ.deps.json
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/TallerLINQ/bin/Debug/net8.0/TallerLINQ.runtimeconfig.json
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/TallerLINQ/bin/Debug/net8.0/TallerLINQ.dll
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/TallerLINQ/bin/Debug/net8.0/TallerLINQ.pdb
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/TallerLINQ/obj/Debug/net8.0/TallerLINQ.GeneratedMSBuildEditorConfig.editorconfig
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/TallerLINQ/obj/Debug/net8.0/TallerLINQ.AssemblyInfoInputs.cache
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/TallerLINQ/obj/Debug/net8.0/TallerLINQ.AssemblyInfo.cs
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/TallerLINQ/obj/Debug/net8.0/TallerLINQ.csproj.CoreCompileInputs.cache
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/TallerLINQ/obj/Debug/net8.0/TallerLINQ.sourcelink.json
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/TallerLINQ/obj/Debug/net8.0/TallerLINQ.dll
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/TallerLINQ/obj/Debug/net8.0/refint/TallerLINQ.dll
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/TallerLINQ/obj/Debug/net8.0/TallerLINQ.pdb
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/TallerLINQ/obj/Debug/net8.0/TallerLINQ.genruntimeconfig.cache
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/TallerLINQ/obj/Debug/net8.0/ref/TallerLINQ.dll
